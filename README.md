@@ -11,7 +11,9 @@ Also, in case that the algorithm does not return any Action or Activities,  it w
 they can do as an Activity of Action and recommend these as purpose of the initial object.
 
 Example:   Thor_Hammer can be used for ------
+
            Thor_Hammer is similar to Hammer
+           
            Hammer can be used for hit, break, kill, nail...
            
 Anyone who wants to use it needs first to make a small change in the path existing in the Java Code file, by going to the source code 
